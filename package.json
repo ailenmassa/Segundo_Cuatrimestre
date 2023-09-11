@@ -1,0 +1,12 @@
+{
+  "name": "ejemplo",
+  "version": "1.0.0",
+  "description": "descripcion del paquete",
+  "main": "index.js",
+  "scripts": {
+    "inicio":"node ejemplo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ailen massa",
+  "license": "ISC"
+}
